@@ -1,2 +1,2 @@
 # MakaleProject
-Makale Ve Anket Uygulamaları Projesi
+Banner, Makale Ve Anket Uygulamaları Projesi
